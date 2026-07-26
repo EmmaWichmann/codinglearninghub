@@ -107,6 +107,17 @@
         cursor: pointer;
       }
 
+      .actions a {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 999px;
+        padding: 12px 18px;
+        font: inherit;
+        text-decoration: none;
+        cursor: pointer;
+      }
+
       .primary { background: var(--accent); color: #0b0f1a; }
       .secondary { background: var(--accent-soft); color: var(--accent-dark); }
 
@@ -216,6 +227,10 @@
         <p class="score" id="score-line"></p>
         <p class="meta" id="results-summary"></p>
         <div class="review-list" id="review-list"></div>
+        <div class="actions">
+          <a class="secondary" href="index.html">Back to Skill Checks</a>
+          <a class="secondary" href="../index.html">Back to Today</a>
+        </div>
       </section>
     </main>
 
