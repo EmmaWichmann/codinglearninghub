@@ -4,7 +4,7 @@ A browser based learning system that turns structured SQL and Python practice in
 
 [View Live Demo](https://emmawichmann.github.io/careercompass/) | [View Repository](https://github.com/EmmaWichmann/careercompass)
 
-<!-- Add a current Career Compass product screenshot here -->
+![Career Compass Today dashboard showing a recommended SQL lesson and progress tracking](assets/career-compass-today.png)
 
 ## Overview
 
